@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Screenshot
+
+![](https://github.com/der1598c/draggable_home_controller/blob/master/screenshots/device-2020-02-07-094446.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
